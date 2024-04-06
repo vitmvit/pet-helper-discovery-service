@@ -1,5 +1,9 @@
 # Getting Started
 
+[Точка входа в приложение](https://github.com/vitmvit/pet-helper-api-gateway-service)
+
+Сервис обнаружения сторонних миеросервисов.
+
 ### Reference Documentation
 
 For further reference, please consider the following sections:
